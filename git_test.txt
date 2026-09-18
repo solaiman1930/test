@@ -2,3 +2,4 @@ It is the starting of the test. Introducing conflict here.
 This is the first branch.
 This the second branch.
 Creating conflict on first line.
+Create another conflict.
