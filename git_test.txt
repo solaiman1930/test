@@ -7,3 +7,4 @@ Modify master for rebase test 1
 Modify master for rebase test 2
 
 test branch1 for rebase
+modify branch 1
